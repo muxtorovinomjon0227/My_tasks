@@ -19,3 +19,8 @@ samples, guidance on mobile development, and a full API reference.
   <img src="assets/screen_1.png" alt="SR GUI Opening window"
        width="300">
 </p>
+<p align="left">
+  <img src="assets/screen_2.png" alt="SR GUI Opening window"
+       width="300">
+</p>
+
